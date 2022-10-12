@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Centering Practice</title>
+  </head>
+  <body>
+    <header><h1>I'm the Header!</h1></header>
+    <main>
+      <p class="content">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis architecto, dolorum dicta error in eius, dolor adipisci maxime atque ex commodi explicabo officiis deleniti ipsa temporibus fugiat nulla necessitatibus corrupti! Ad voluptate vero laborum quia porro odit ab obcaecati veritatis quibusdam, rem tempore. Voluptas cumque, assumenda quidem vero quam pariatur.</p>
+      <img src="/images/bread.jpg">
+      <img src="/images/Shortfin-mako-shark-seas.jpg">
+      <img src="/images/Abyssinian-Guinea-Pig_Shutterstock_Kirill-Kurashov.webp">
+    </main>
+    <footer><p>I'm the footer!</p></footer>
+</body>
+</html>

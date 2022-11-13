@@ -1,0 +1,2107 @@
+/* screen - landing-page */
+
+.landing-page {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 2696px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.landing-page .rectangle-1-C61RwL {
+  --z-index: 0;
+  background-color: #988b7b;
+  border: 1px none;
+  height: 138px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.landing-page .mushrooms-of-the-pacific-northwest-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Faglia-Regular', Helvetica;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 201px;
+  width: 766px;
+}
+
+.landing-page .fungi-of-fortune-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Faglia-Regular', Helvetica;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 405px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1057px;
+  width: auto;
+}
+
+.landing-page .about-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 821px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 114px;
+}
+
+.landing-page .fungi-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 1024px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 51px;
+  width: auto;
+}
+
+.landing-page .climate-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 1218px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 51px;
+  width: auto;
+}
+
+.landing-page .mushroom-1-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/mushroom-1@2x.png);
+  background-size: 100% 100%;
+  height: 409px;
+  left: 1039px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 497px;
+  width: 401px;
+}
+
+.landing-page .the-pacific-northwes-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: 50.4px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 469px;
+  width: 710px;
+}
+
+.landing-page .star-1-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/star-1@2x.svg);
+  background-size: 100% 100%;
+  height: 72px;
+  left: 1082px;
+  opacity: 1;
+  position: absolute;
+  top: 819px;
+  width: 69px;
+}
+
+.landing-page .star-2-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  background-image: url(../img/star-2@2x.svg);
+  background-size: 100% 100%;
+  height: 72px;
+  left: 1352px;
+  opacity: 1;
+  position: absolute;
+  top: 492px;
+  width: 69px;
+}
+
+.landing-page .icon-plane-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  background-image: url(../img/star-3@2x.svg);
+  background-size: 100% 100%;
+  height: 30px;
+  left: 780px;
+  opacity: 1;
+  position: absolute;
+  top: 318px;
+  width: 27px;
+}
+
+.landing-page .icon-plane-VMr6Om {
+  --z-index: 11;
+  background-color: transparent;
+  background-image: url(../img/star-5@2x.svg);
+  background-size: 100% 100%;
+  height: 30px;
+  left: 18px;
+  opacity: 1;
+  position: absolute;
+  top: 186px;
+  width: 27px;
+}
+
+.landing-page .vector-1-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  background-image: url(../img/vector-1@2x.svg);
+  background-size: 100% 100%;
+  height: 127px;
+  left: 860px;
+  opacity: 1;
+  position: absolute;
+  top: 500px;
+  width: 150px;
+}
+
+.landing-page .artboard-1-1-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  background-image: url(../img/artboard-1-1@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 528px;
+  left: 47px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1196px;
+  width: 502px;
+}
+
+.landing-page .morel_words-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  background-image: url(../img/morel-words@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 462px;
+  left: 40px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 2213px;
+  width: 516px;
+}
+
+.landing-page .chicken_words-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  background-image: url(../img/chicken-words@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 528px;
+  left: 860px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1225px;
+  width: 553px;
+}
+
+.landing-page .puffball_words-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  background-image: url(../img/puffball-words@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 557px;
+  left: 242px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1686px;
+  width: 627px;
+}
+
+.landing-page .turkeytail_words-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  background-image: url(../img/turkeytail-words@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 668px;
+  left: 739px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 2007px;
+  width: 701px;
+}
+
+.landing-page .text-1-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Faglia-Regular', Helvetica;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1090px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1077px;
+  width: 52px;
+}
+
+.landing-page .text-2-C61RwL {
+  --z-index: 19;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Faglia-Regular', Helvetica;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 338px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1110px;
+  width: 52px;
+}
+
+.landing-page .text-3-C61RwL {
+  --z-index: 20;
+  -webkit-text-stroke: 1px #ffffff;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Faglia-Regular', Helvetica;
+  font-size: 150px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: 83px;
+}
+/* screen - lobster-mushroom */
+
+.lobster-mushroom {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1985px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.lobster-mushroom .rectangle-1-C61RwL {
+  --z-index: 0;
+  background-color: #988b7b;
+  border: 1px none;
+  height: 138px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.lobster-mushroom .lobster-mushroom-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Faglia-Regular', Helvetica;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 503px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 240px;
+  width: auto;
+}
+
+.lobster-mushroom .span0-GUat4Y {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.lobster-mushroom .span1-GUat4Y {
+  font-style: normal;
+  letter-spacing: -21.12px;
+}
+
+.lobster-mushroom .span2-GUat4Y {
+  font-style: normal;
+  letter-spacing: 2.40px;
+}
+
+.lobster-mushroom .span3-GUat4Y {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.lobster-mushroom .span4-GUat4Y {
+  font-style: normal;
+  letter-spacing: -3.36px;
+}
+
+.lobster-mushroom .span5-GUat4Y {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.lobster-mushroom .about-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 821px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 114px;
+}
+
+.lobster-mushroom .fungi-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 1024px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 51px;
+  width: auto;
+}
+
+.lobster-mushroom .climate-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 1218px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 51px;
+  width: auto;
+}
+
+.lobster-mushroom .ellipse-1-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  border: 0.5px solid;
+  border-color: #000000;
+  border-radius: 24.58px/76.76px;
+  height: 154px;
+  left: 879px;
+  opacity: 1;
+  position: absolute;
+  top: 347px;
+  transform: rotate(32.18deg);
+  width: 49px;
+}
+
+.lobster-mushroom .ellipse-2-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  border: 0.5px solid;
+  border-color: #000000;
+  border-radius: 24.58px/76.76px;
+  height: 154px;
+  left: 910px;
+  opacity: 1;
+  position: absolute;
+  top: 354px;
+  transform: rotate(-149.87deg);
+  width: 49px;
+}
+
+.lobster-mushroom .lobstah-1-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  background-image: url(../img/lobstah-1@2x.png);
+  background-size: 100% 100%;
+  height: 277px;
+  left: 1046px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 141px;
+  width: 344px;
+}
+
+.lobster-mushroom .artboard-1-1-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/artboard-1-1-1@1x.png);
+  background-size: 100% 100%;
+  height: 692px;
+  left: 25px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 486px;
+  width: 679px;
+}
+
+.lobster-mushroom .lobster-mushrooms-ar-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 720px;
+  letter-spacing: 0.00px;
+  line-height: 40.4px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 684px;
+  width: 631px;
+}
+
+.lobster-mushroom .lobster-mushrooms-ar-VMr6Om {
+  --z-index: 10;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 152px;
+  letter-spacing: 0.00px;
+  line-height: 30.3px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1297px;
+  width: 1135px;
+}
+
+.lobster-mushroom .text-4-C61RwL {
+  --z-index: 11;
+  -webkit-text-stroke: 1px #ffffff;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'Faglia-Regular', Helvetica;
+  font-size: 150px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: 83px;
+}
+/* screen - morel */
+
+.morel {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1985px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.morel .rectangle-1-C61RwL {
+  --z-index: 0;
+  background-color: #988b7b;
+  border: 1px none;
+  height: 138px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.morel .morel-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Faglia-Regular', Helvetica;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 604px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 263px;
+  width: auto;
+}
+
+.morel .about-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 821px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 114px;
+}
+
+.morel .fungi-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 1024px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 51px;
+  width: auto;
+}
+
+.morel .climate-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 1218px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 51px;
+  width: auto;
+}
+
+.morel .morel-mushrooms-are-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 720px;
+  letter-spacing: 0.00px;
+  line-height: 40.4px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 515px;
+  width: 671px;
+}
+
+.morel .morel-mushrooms-can-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 152px;
+  letter-spacing: 0.00px;
+  line-height: 30.3px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1297px;
+  width: 1135px;
+}
+
+.morel .text-5-C61RwL {
+  --z-index: 7;
+  -webkit-text-stroke: 1px #ffffff;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'Faglia-Regular', Helvetica;
+  font-size: 150px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  width: 83px;
+}
+
+.morel .star-1-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/star-1-1@2x.svg);
+  background-size: 100% 100%;
+  height: 43px;
+  left: 852px;
+  opacity: 1;
+  position: absolute;
+  top: 341px;
+  width: 41px;
+}
+
+.morel .star-2-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  background-image: url(../img/star-2-1@2x.svg);
+  background-size: 100% 100%;
+  height: 43px;
+  left: 562px;
+  opacity: 1;
+  position: absolute;
+  top: 237px;
+  width: 41px;
+}
+
+.morel .sparkle-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  height: 16px;
+  left: 894px;
+  opacity: 1;
+  position: absolute;
+  top: 339px;
+  width: 16px;
+}
+
+.morel .line-1-u9z2Xe {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/line-1@2x.svg);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 8px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.morel .line-6-u9z2Xe {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/line-6@2x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  width: 16px;
+}
+
+.morel .line-7-u9z2Xe {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/line-7@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 3px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 11px;
+}
+
+.morel .line-8-u9z2Xe {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-8@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 2px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 11px;
+}
+
+.morel .sparkle-VMr6Om {
+  --z-index: 11;
+  background-color: transparent;
+  height: 16px;
+  left: 555px;
+  opacity: 1;
+  position: absolute;
+  top: 276px;
+  transform: rotate(-180.00deg);
+  width: 16px;
+}
+
+.morel .line-1-PaBWnz {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/line-1-1@2x.svg);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 8px;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  transform: rotate(180.00deg);
+  width: 1px;
+}
+
+.morel .line-6-PaBWnz {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/line-6-1@2x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  transform: rotate(180.00deg);
+  width: 16px;
+}
+
+.morel .line-7-PaBWnz {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/line-7-1@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 3px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  transform: rotate(180.00deg);
+  width: 11px;
+}
+
+.morel .line-8-PaBWnz {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-8-1@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 2px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  transform: rotate(180.00deg);
+  width: 11px;
+}
+
+.morel .sparkle-mzXdH9 {
+  --z-index: 12;
+  background-color: transparent;
+  height: 8px;
+  left: 905px;
+  opacity: 1;
+  position: absolute;
+  top: 359px;
+  width: 9px;
+}
+
+.morel .line-1-1T0D3n {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/line-1-2@2x.svg);
+  background-size: 100% 100%;
+  height: 8px;
+  left: 5px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.morel .line-6-1T0D3n {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/line-6-2@2x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 4px;
+  width: 9px;
+}
+
+.morel .line-7-1T0D3n {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/line-7-2@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 2px;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 6px;
+}
+
+.morel .line-8-1T0D3n {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-8-2@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 6px;
+}
+
+.morel .sparkle-QxM5SU {
+  --z-index: 13;
+  background-color: transparent;
+  height: 8px;
+  left: 551px;
+  opacity: 1;
+  position: absolute;
+  top: 264px;
+  transform: rotate(-180.00deg);
+  width: 9px;
+}
+
+.morel .line-1-9DhJpl {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/line-1-3@2x.svg);
+  background-size: 100% 100%;
+  height: 8px;
+  left: 5px;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  transform: rotate(180.00deg);
+  width: 1px;
+}
+
+.morel .line-6-9DhJpl {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/line-6-3@2x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 4px;
+  transform: rotate(180.00deg);
+  width: 9px;
+}
+
+.morel .line-7-9DhJpl {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/line-7-3@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 2px;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  transform: rotate(180.00deg);
+  width: 6px;
+}
+
+.morel .line-8-9DhJpl {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-8-3@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  transform: rotate(180.00deg);
+  width: 6px;
+}
+
+.morel .morel_words-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  background-image: url(../img/morel-words-1@1x.png);
+  background-size: 100% 100%;
+  height: 612px;
+  left: 96px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 543px;
+  width: 689px;
+}
+/* screen - chicken-of-the-woods */
+
+.chicken-of-the-woods {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1985px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.chicken-of-the-woods .rectangle-1-C61RwL {
+  --z-index: 0;
+  background-color: #988b7b;
+  border: 1px none;
+  height: 138px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.chicken-of-the-woods .chicken-of-the-woods-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Faglia-Regular', Helvetica;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 424px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 239px;
+  width: auto;
+}
+
+.chicken-of-the-woods .about-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 821px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 114px;
+}
+
+.chicken-of-the-woods .fungi-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 1024px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 51px;
+  width: auto;
+}
+
+.chicken-of-the-woods .climate-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 1218px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 51px;
+  width: auto;
+}
+
+.chicken-of-the-woods .ellipse-1-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  border: 0.5px solid;
+  border-color: #000000;
+  border-radius: 13.3px/41.52px;
+  height: 83px;
+  left: 414px;
+  opacity: 1;
+  position: absolute;
+  top: 219px;
+  transform: rotate(32.18deg);
+  width: 27px;
+}
+
+.chicken-of-the-woods .ellipse-2-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  border: 0.5px solid;
+  border-color: #000000;
+  border-radius: 31.97px;
+  height: 64px;
+  left: 829px;
+  opacity: 1;
+  position: absolute;
+  top: 391px;
+  transform: rotate(-149.87deg);
+  width: 64px;
+}
+
+.chicken-of-the-woods .chicken-of-the-woods-VMr6Om {
+  --z-index: 7;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 720px;
+  letter-spacing: 0.00px;
+  line-height: 40.4px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 684px;
+  width: 631px;
+}
+
+.chicken-of-the-woods .chicken-of-the-woods-mzXdH9 {
+  --z-index: 8;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 152px;
+  letter-spacing: 0.00px;
+  line-height: 30.3px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1297px;
+  width: 1135px;
+}
+
+.chicken-of-the-woods .chicken_words-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  background-image: url(../img/chicken-words-1@1x.png);
+  background-size: 100% 100%;
+  height: 717px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 452px;
+  width: 750px;
+}
+
+.chicken-of-the-woods .chicken-1-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  background-image: url(../img/chicken-1@2x.png);
+  background-size: 100% 100%;
+  height: 255px;
+  left: 1126px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 317px;
+  width: 176px;
+}
+
+.chicken-of-the-woods .text-8-C61RwL {
+  --z-index: 11;
+  -webkit-text-stroke: 1px #ffffff;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'Faglia-Regular', Helvetica;
+  font-size: 150px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: 83px;
+}
+/* screen - puffball */
+
+.puffball {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1985px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.puffball .rectangle-1-C61RwL {
+  --z-index: 0;
+  background-color: #988b7b;
+  border: 1px none;
+  height: 138px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.puffball .puffball-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Faglia-Regular', Helvetica;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 537px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 263px;
+  width: auto;
+}
+
+.puffball .about-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 821px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 114px;
+}
+
+.puffball .fungi-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 1024px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 51px;
+  width: auto;
+}
+
+.puffball .climate-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 1218px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 51px;
+  width: auto;
+}
+
+.puffball .puffball-mushrooms-c-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 720px;
+  letter-spacing: 0.00px;
+  line-height: 40.4px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 684px;
+  width: 631px;
+}
+
+.puffball .puffball-mushroom-is-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 152px;
+  letter-spacing: 0.00px;
+  line-height: 30.3px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1297px;
+  width: 1135px;
+}
+
+.puffball .puffball_words-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  background-image: url(../img/puffball-words-1@1x.png);
+  background-size: 100% 100%;
+  height: 562px;
+  left: 9px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 511px;
+  width: 711px;
+}
+
+.puffball .sparkle-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  height: 17px;
+  left: 919px;
+  opacity: 1;
+  position: absolute;
+  top: 264px;
+  width: 17px;
+}
+
+.puffball .line-1-u9z2Xe {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/line-1-6@2x.svg);
+  background-size: 100% 100%;
+  height: 17px;
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.puffball .line-6-u9z2Xe {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/line-6-6@2x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  width: 17px;
+}
+
+.puffball .line-7-u9z2Xe {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/line-7-6@2x.svg);
+  background-size: 100% 100%;
+  height: 12px;
+  left: 3px;
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  width: 12px;
+}
+
+.puffball .line-8-u9z2Xe {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-8-6@2x.svg);
+  background-size: 100% 100%;
+  height: 12px;
+  left: 2px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.puffball .sparkle-VMr6Om {
+  --z-index: 9;
+  background-color: transparent;
+  height: 17px;
+  left: 494px;
+  opacity: 1;
+  position: absolute;
+  top: 349px;
+  width: 17px;
+}
+
+.puffball .line-1-PaBWnz {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/line-1-7@2x.svg);
+  background-size: 100% 100%;
+  height: 17px;
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.puffball .line-6-PaBWnz {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/line-6-7@2x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  width: 17px;
+}
+
+.puffball .line-7-PaBWnz {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/line-7-7@2x.svg);
+  background-size: 100% 100%;
+  height: 12px;
+  left: 3px;
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  width: 12px;
+}
+
+.puffball .line-8-PaBWnz {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-8-7@2x.svg);
+  background-size: 100% 100%;
+  height: 12px;
+  left: 2px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.puffball .sparkle-mzXdH9 {
+  --z-index: 10;
+  background-color: transparent;
+  height: 34px;
+  left: 942px;
+  opacity: 1;
+  position: absolute;
+  top: 273px;
+  width: 34px;
+}
+
+.puffball .line-1-1T0D3n {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/line-1-8@2x.svg);
+  background-size: 100% 100%;
+  height: 34px;
+  left: 17px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.puffball .line-6-1T0D3n {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/line-6-8@2x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: -0px;
+  opacity: 1;
+  position: absolute;
+  top: 17px;
+  width: 34px;
+}
+
+.puffball .line-7-1T0D3n {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/line-7-8@2x.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 6px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 24px;
+}
+
+.puffball .line-8-1T0D3n {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-8-8@2x.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 5px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 24px;
+}
+
+.puffball .sparkle-QxM5SU {
+  --z-index: 11;
+  background-color: transparent;
+  height: 34px;
+  left: 516px;
+  opacity: 1;
+  position: absolute;
+  top: 358px;
+  width: 34px;
+}
+
+.puffball .line-1-9DhJpl {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/line-1-9@2x.svg);
+  background-size: 100% 100%;
+  height: 34px;
+  left: 17px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.puffball .line-6-9DhJpl {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/line-6-9@2x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: -0px;
+  opacity: 1;
+  position: absolute;
+  top: 17px;
+  width: 34px;
+}
+
+.puffball .line-7-9DhJpl {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/line-7-9@2x.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 6px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 24px;
+}
+
+.puffball .line-8-9DhJpl {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-8-9@2x.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 5px;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 24px;
+}
+
+.puffball .text-7-C61RwL {
+  --z-index: 12;
+  -webkit-text-stroke: 1px #ffffff;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'Faglia-Regular', Helvetica;
+  font-size: 150px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  width: 83px;
+}
+/* screen - turkey-tail */
+
+.turkey-tail {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1985px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.turkey-tail .rectangle-1-C61RwL {
+  --z-index: 0;
+  background-color: #988b7b;
+  border: 1px none;
+  height: 138px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.turkey-tail .turkey-tails-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Faglia-Regular', Helvetica;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 459px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 263px;
+  width: auto;
+}
+
+.turkey-tail .about-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 821px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 114px;
+}
+
+.turkey-tail .fungi-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 1024px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 51px;
+  width: auto;
+}
+
+.turkey-tail .climate-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 1218px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 51px;
+  width: auto;
+}
+
+.turkey-tail .turkey-tails-are-a-u-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 653px;
+  letter-spacing: 0.00px;
+  line-height: 40.4px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 547px;
+  width: 631px;
+}
+
+.turkey-tail .turkey-tails-are-a-f-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Bicyclette-Light', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 152px;
+  letter-spacing: 0.00px;
+  line-height: 30.3px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1297px;
+  width: 1135px;
+}
+
+.turkey-tail .text-6-C61RwL {
+  --z-index: 7;
+  -webkit-text-stroke: 1px #ffffff;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: 'Faglia-Regular', Helvetica;
+  font-size: 150px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  width: 83px;
+}
+
+.turkey-tail .star-2-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/star-2-2@2x.svg);
+  background-size: 100% 100%;
+  height: 43px;
+  left: 433px;
+  opacity: 1;
+  position: absolute;
+  top: 254px;
+  width: 41px;
+}
+
+.turkey-tail .sparkle-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  height: 16px;
+  left: 426px;
+  opacity: 1;
+  position: absolute;
+  top: 293px;
+  transform: rotate(-180.00deg);
+  width: 16px;
+}
+
+.turkey-tail .line-1-u9z2Xe {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/line-1-4@2x.svg);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 8px;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  transform: rotate(180.00deg);
+  width: 1px;
+}
+
+.turkey-tail .line-6-u9z2Xe {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/line-6-4@2x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: -0px;
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  transform: rotate(180.00deg);
+  width: 16px;
+}
+
+.turkey-tail .line-7-u9z2Xe {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/line-7-4@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 3px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  transform: rotate(180.00deg);
+  width: 11px;
+}
+
+.turkey-tail .line-8-u9z2Xe {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-8-4@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 2px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  transform: rotate(180.00deg);
+  width: 11px;
+}
+
+.turkey-tail .sparkle-VMr6Om {
+  --z-index: 10;
+  background-color: transparent;
+  height: 8px;
+  left: 422px;
+  opacity: 1;
+  position: absolute;
+  top: 281px;
+  transform: rotate(-180.00deg);
+  width: 9px;
+}
+
+.turkey-tail .line-1-PaBWnz {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/line-1-5@2x.svg);
+  background-size: 100% 100%;
+  height: 8px;
+  left: 5px;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  transform: rotate(180.00deg);
+  width: 1px;
+}
+
+.turkey-tail .line-6-PaBWnz {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/line-6-5@2x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 4px;
+  transform: rotate(180.00deg);
+  width: 9px;
+}
+
+.turkey-tail .line-7-PaBWnz {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/line-7-5@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 2px;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  transform: rotate(180.00deg);
+  width: 6px;
+}
+
+.turkey-tail .line-8-PaBWnz {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/line-8-5@2x.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  transform: rotate(180.00deg);
+  width: 6px;
+}
+
+.turkey-tail .ellipse-1-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  border: 0.5px solid;
+  border-color: #000000;
+  border-radius: 13.3px/41.52px;
+  height: 83px;
+  left: 968px;
+  opacity: 1;
+  position: absolute;
+  top: 301px;
+  transform: rotate(32.18deg);
+  width: 27px;
+}
+
+.turkey-tail .ellipse-2-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  border: 0.5px solid;
+  border-color: #000000;
+  border-radius: 13.3px/41.52px;
+  height: 83px;
+  left: 970px;
+  opacity: 1;
+  position: absolute;
+  top: 302px;
+  transform: rotate(-15.00deg);
+  width: 27px;
+}
+
+.turkey-tail .turkeytail_words-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  background-image: url(../img/turkeytail-words-1@1x.png);
+  background-size: 100% 100%;
+  height: 668px;
+  left: 31px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 515px;
+  width: 666px;
+}

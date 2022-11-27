@@ -14,22 +14,72 @@ img {
 
 body-type {
   margin: 0;
-  font-family: "Bicyclette"
+  font-family: "Bicyclette-Light";
   font-size: 21px ;
 }
 
-h1, h2 {
+h1 {
  font-family: "Gilbert"
 }
  h1 {font-size: 64px;}
 
+h2 {
+    font-family: "Compagnon"; 
+    font-style: italic;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;  
+    position: absolute;
+    width: 995.05px;
+    height: 96.86px;
+    left: 142.48px;
+    top: 204.8px;
 
-.button {
-  font: size 48px;
-  font-weight: 700;
 }
 
-/* Style the navbar */
+h3 {
+    position: absolute;
+    width: 888px;
+    height: 82.28px;
+    left: 196px;
+    top: 909.18px;
+    font-family: 'Compagnon';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 48px;
+}
+
+h4{
+    position: absolute;
+    width: 551.63px;
+    height: 82.28px;
+    left: 747.63px;
+    top: 883.32px;
+
+    font-family: 'Compagnon';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+}
+h5 {
+    font-family: "Compagnon"; 
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;  
+    position: absolute;
+    width: 995.05px;
+    height: 96.86px;
+    left: 142.48px;
+    top: 204.8px;
+   
+}
+
+ /* Style the navbar */
 #navbar {
     overflow: hidden;
     background-color: #B8C26C;
@@ -43,30 +93,11 @@ h1, h2 {
     display: block;
     color: rgb(33, 86, 90);
     text-align: center;
-    padding: 25px;
+    padding: 40px;
     text-decoration: none;
     font-family: "Bicyclette-Light";
     font-style: normal;
     font-weight: 300;
     font-size: 24px;
-
-  }
-
-  /* Page content */
-  .content {
-    padding: 16px;
-  }
-
-  /* The sticky class is added to the navbar with JS when it reaches its scroll position */
-  .sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-  }
-
-  .homepage main {
-    display:flex;
-    width: 90%;
-    margin: auto;
 
   }

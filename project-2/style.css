@@ -7,16 +7,6 @@ body {
     text-align: left;
 }
 
-img {
-  width: 200%;
-  align-items: flex-start;
-}
-
-body-type {
-  margin: 0;
-  font-family: "Bicyclette-Light";
-  font-size: 21px ;
-}
 
 h1 {
  font-family: "Gilbert"

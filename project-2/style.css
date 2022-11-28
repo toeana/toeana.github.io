@@ -79,6 +79,35 @@ h5 {
    
 }
 
+h6{
+    position: absolute;
+    width: 1168.55px;
+    height: 122.48px;
+    left: 57.11px;
+    top: 404.77px;
+
+    font-family: 'Compagnon';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+}
+
+p {
+    position: absolute;
+    width: 1020.97px;
+    height: 1325.67px;
+    left: 129.52px;
+    top: 609.67px;
+
+    font-family: 'Bicyclette';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 127.1%;
+}
+
  /* Style the navbar */
 #navbar {
     overflow: hidden;

@@ -6,7 +6,10 @@
   font-family: 'Compagnon';
   src: url(fonts/Compagnon-Light.otf);
 }
-
+@font-face {
+    font-family: 'Gilbert';
+    src: url(fonts/Gilbert-Bold\ Preview5.otf);
+  }
 * {
   box-sizing: border-box;
 }
@@ -77,6 +80,7 @@ p {
   font-weight: 300;
   font-size: 32px;
   line-height: 127.1%;
+  text-align: justify;
 }
 
 .one {

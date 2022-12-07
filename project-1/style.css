@@ -1,0 +1,1371 @@
+@font-face {
+  font-family: 'Bicyclette';
+  src: url(fonts/Bicyclette-Light.otf);
+}
+@font-face {
+  font-family: 'Fagila';
+  src: url(fonts/Faglia-Regular.otf);
+}
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: 'Bicyclette';
+}
+
+.homepage h1 {
+  text-align: left;
+}
+
+/*home-page */
+
+.landing-page {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2696px;
+  width: 1440px;
+}
+
+.landing-page .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  min-height: 399px;
+  width: 1440px;
+}
+
+.landing-page .overlap-group2 {
+  align-items: center;
+  background-color: #988b7b;
+  display: flex;
+  height: 138px;
+  min-width: 1440px;
+  padding: 31.9px 53.4px;
+}
+
+.landing-page .text-3 {
+  -webkit-text-stroke: 1px var(--white);
+  align-self: flex-start;
+  color: var(--white);
+  font-family: var(--font-family-faglia-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 70px;
+  width: 83px;
+}
+
+.landing-page .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 212px;
+  margin-left: 17.78px;
+  min-width: 793px;
+}
+
+.landing-page .star-5 {
+  height: 30px;
+  width: 27px;
+}
+
+.landing-page .overlap-group1 {
+  align-self: flex-end;
+  height: 198px;
+  position: relative;
+  width: 766px;
+}
+
+.landing-page .mushrooms-of-the-pacific-northwest {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 766px;
+}
+
+.landing-page .star-3 {
+  height: 30px;
+  left: 735px;
+  position: absolute;
+  top: 118px;
+  width: 27px;
+}
+
+.landing-page .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 437px;
+  margin-top: 70px;
+  min-width: 1386px;
+}
+
+.landing-page .the-pacific-northwes {
+  color: var(--black);
+  font-family: var(--font-family-bicyclette-light);
+  font-size: var(--font-size-m);
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 50.4px;
+  min-height: 301px;
+  width: 710px;
+}
+
+.landing-page .vector-1 {
+  height: 127px;
+  margin-left: 95px;
+  margin-top: 31.65px;
+  width: 150px;
+}
+
+.landing-page .overlap-group3 {
+  align-self: flex-end;
+  height: 413px;
+  margin-left: 29px;
+  position: relative;
+  width: 401px;
+}
+
+.landing-page .mushroom-1 {
+  height: 409px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 401px;
+}
+
+.landing-page .star-1 {
+  height: 72px;
+  left: 43px;
+  position: absolute;
+  top: 327px;
+  width: 69px;
+}
+
+.landing-page .star-2 {
+  height: 72px;
+  left: 313px;
+  position: absolute;
+  top: 0;
+  width: 69px;
+}
+
+.landing-page .flex-row-2 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  height: 106px;
+  margin-left: 40.32px;
+  margin-top: 152px;
+  min-width: 804px;
+}
+
+.landing-page .text-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 33.57px;
+  min-height: 34px;
+  width: 52px;
+}
+
+.landing-page .fungi-of-fortune {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 15px;
+  min-height: 106px;
+  min-width: 668px;
+}
+
+.landing-page .text-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 33.57px;
+  margin-left: 17px;
+  min-height: 34px;
+  width: 52px;
+}
+
+.landing-page .overlap-group {
+  height: 1479px;
+  margin-top: 33px;
+  position: relative;
+  width: 1400px;
+}
+
+.landing-page .artboard-1-1 {
+  height: 528px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 502px;
+}
+
+.landing-page .morel_words {
+  height: 462px;
+  left: 0;
+  position: absolute;
+  top: 1017px;
+  width: 516px;
+}
+
+.landing-page .chicken_words {
+  height: 528px;
+  left: 820px;
+  position: absolute;
+  top: 29px;
+  width: 553px;
+}
+
+.landing-page .puffball_words {
+  height: 557px;
+  left: 202px;
+  position: absolute;
+  top: 489px;
+  width: 627px;
+}
+
+.landing-page .turkeytail_words {
+  height: 668px;
+  left: 699px;
+  position: absolute;
+  top: 811px;
+  width: 701px;
+}
+
+h1 {
+  font-family: 'Fagila';
+  font-style: normal;
+  font-weight: 400;
+  line-height: 80px;
+  font-size: 96px;
+  padding-left: 40px;
+}
+
+h2 {
+  font-family: 'Fagila';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 150px;
+  line-height: 58px;
+  text-align: justify;
+}
+
+.one {
+  background: white;
+  padding: 80px 0;
+}
+.one h2 {
+  width: 80%;
+  margin: auto;
+  padding-bottom: 60px;
+}
+.one .two-col {
+  width: 90%;
+  margin: auto;
+}
+
+
+p {
+  font-family: 'Bicyclette';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 32px;
+  padding-left: 40px; 
+  margin:auto;
+  text-align: left;
+}
+
+/* Style the navbar */
+#navbar {
+  overflow: hidden;
+  background-color: #988B7B;
+  display: flex;
+  justify-content: space-around;
+}
+
+/* Navbar links */
+#navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: right;
+  padding: 40px;
+  text-decoration: none;
+  font-family: 'Bicyclette';
+  font-style: thin;
+  font-weight: 300;
+  font-size: 40px;
+}
+
+/*lobster-mushroom */
+
+.lobster-mushroom {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1985px;
+  width: 1440px;
+}
+
+.lobster-mushroom .overlap-group {
+  align-items: center;
+  background-color: #988b7b;
+  display: flex;
+  height: 138px;
+  min-width: 1440px;
+  padding: 31.9px 53.4px;
+}
+
+.lobster-mushroom .text-1 {
+  -webkit-text-stroke: 1px var(--white);
+  align-self: flex-start;
+  color: var(--white);
+  font-family: var(--font-family-faglia-regular);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 70px;
+  width: 83px;
+}
+
+.lobster-mushroom .overlap-group2 {
+  height: 1038px;
+  margin-right: 25.19px;
+  margin-top: 3px;
+  position: relative;
+  width: 1366px;
+}
+
+.lobster-mushroom .overlap-group4 {
+  height: 938px;
+  left: 0;
+  position: absolute;
+  top: 99px;
+  width: 1326px;
+}
+
+.lobster-mushroom .overlap-group3 {
+  height: 938px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 970px;
+}
+
+.lobster-mushroom .overlap-group1 {
+  height: 269px;
+  left: 479px;
+  position: absolute;
+  top: 0;
+  width: 491px;
+}
+
+.lobster-mushroom .lobster-mushroom-1 {
+  left: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.lobster-mushroom .span {
+  letter-spacing: 0;
+}
+
+.lobster-mushroom .span1 {
+  letter-spacing: -21.12px;
+}
+
+.lobster-mushroom .span2 {
+  letter-spacing: 2.40px;
+}
+
+.lobster-mushroom .span4 {
+  letter-spacing: -3.36px;
+}
+
+.lobster-mushroom .ellipse-1 {
+  border: 0.5px solid;
+  border-color: var(--black);
+  border-radius: 24.58px/76.76px;
+  height: 154px;
+  left: 375px;
+  position: absolute;
+  top: 107px;
+  transform: rotate(32.18deg);
+  width: 49px;
+}
+
+.lobster-mushroom .ellipse-2 {
+  border: 0.5px solid;
+  border-color: var(--black);
+  border-radius: 24.58px/76.76px;
+  height: 154px;
+  left: 407px;
+  position: absolute;
+  top: 114px;
+  transform: rotate(-149.87deg);
+  width: 49px;
+}
+
+.lobster-mushroom .artboard-1-1 {
+  height: 692px;
+  left: 0;
+  position: absolute;
+  top: 246px;
+  width: 679px;
+}
+
+.lobster-mushroom .lobster-mushrooms-ar {
+  color: var(--black);
+  font-family: var(--font-family-bicyclette-light);
+  font-size: var(--font-size-l);
+  font-weight: 300;
+  left: 695px;
+  letter-spacing: 0;
+  line-height: 40.4px;
+  position: absolute;
+  top: 444px;
+  width: 631px;
+}
+
+.lobster-mushroom .lobstah-1 {
+  height: 277px;
+  left: 1022px;
+  position: absolute;
+  top: 0;
+  width: 344px;
+}
+
+.lobster-mushroom .lobster-mushrooms-ar-1 {
+  color: var(--black);
+  font-family: var(--font-family-bicyclette-light);
+  font-size: var(--font-size-m);
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 30.3px;
+  margin-top: 118px;
+  min-height: 307px;
+  width: 1135px;
+}
+
+/* chicken-of-the-woods */
+
+.chicken-of-the-woods {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1985px;
+  width: 1440px;
+}
+
+.chicken-of-the-woods .overlap-group1 {
+  align-items: center;
+  background-color: #988b7b;
+  display: flex;
+  height: 138px;
+  min-width: 1440px;
+  padding: 31.9px 53.4px;
+}
+
+.chicken-of-the-woods .text-1 {
+  align-self: flex-start;
+  color: var(--white);
+  font-family:'Fagila';
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 70px;
+  width: 83px;
+}
+
+.chicken-of-the-woods .overlap-group3 {
+  height: 950px;
+  margin-top: 80px;
+  position: relative;
+  width: 1351px;
+}
+
+.chicken-of-the-woods .overlap-group2 {
+  height: 248px;
+  left: 394px;
+  position: absolute;
+  top: 0;
+  width: 623px;
+}
+
+.chicken-of-the-woods .chicken-of-the-woods-1 {
+  font-family: 'Fagila';
+  font-weight: 400;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+}
+
+.chicken-of-the-woods .ellipse-1 {
+  border: 0.5px solid;
+  border-color: black;
+  border-radius: 13.3px/41.52px;
+  height: 83px;
+  left: 20px;
+  position: absolute;
+  top: 1px;
+  transform: rotate(32.18deg);
+  width: 27px;
+}
+
+.chicken-of-the-woods .ellipse-2 {
+  border: 0.5px solid;
+  border-color: black;
+  border-radius: 31.97px;
+  height: 64px;
+  left: 436px;
+  position: absolute;
+  top: 173px;
+  transform: rotate(-149.87deg);
+  width: 64px;
+}
+
+.chicken-of-the-woods .chicken-container {
+  height: 717px;
+  left: 0;
+  position: absolute;
+  top: 233px;
+  width: 1351px;
+}
+
+.chicken-of-the-woods .chicken-of-the-woods-2 {
+  font-family:'Bicyclette';
+  font-weight: 300;
+  left: 720px;
+  letter-spacing: 0;
+  line-height: 40.4px;
+  position: absolute;
+  top: 232px;
+  width: 631px;
+}
+
+.chicken-of-the-woods .chicken_words {
+  height: 717px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 750px;
+}
+
+.chicken-of-the-woods .chicken-1 {
+  height: 255px;
+  left: 1126px;
+  position: absolute;
+  top: 98px;
+  width: 176px;
+}
+
+.chicken-of-the-woods .chicken-of-the-woods-3 {
+  align-self: center;
+}
+
+/* morel */
+
+.morel{
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1985px;
+  width: 1440px;
+}
+
+.morel .overlap-group4 {
+  align-items: center;
+  background-color: #988b7b;
+  display: flex;
+  height: 138px;
+  min-width: 1440px;
+  padding: 30.1px 53.4px;
+}
+
+.morel .text-1 {
+  align-self: flex-end;
+  font-family:'Fagila';
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 70px;
+  width: 83px;
+}
+
+
+.morel .flex-row {
+  align-items: flex-end;
+  display: flex;
+  height: 147px;
+  margin-left: 25.02px;
+  margin-top: 99px;
+  min-width: 363px;
+}
+
+.morel .overlap-group7 {
+  align-self: flex-start;
+  height: 54px;
+  position: relative;
+  width: 52px;
+}
+
+.morel .overlap-group5 {
+  height: 54px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.morel .star-2 {
+  height: 43px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 41px;
+}
+
+.morel .sparkle {
+  align-items: flex-end;
+  display: flex;
+  height: 16px;
+  left: 0;
+  min-width: 16px;
+  position: absolute;
+  top: 39px;
+  transform: rotate(-180.00deg);
+}
+
+.morel .line-container {
+  height: 16px;
+  margin-bottom: 0;
+  position: relative;
+  width: 16px;
+}
+
+.morel .line-1 {
+  height: 16px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  transform: rotate(180.00deg);
+  width: 1px;
+}
+
+.morel .line-6 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(180.00deg);
+  width: 16px;
+}
+
+.morel .line-7 {
+  height: 11px;
+  left: 3px;
+  position: absolute;
+  top: 2px;
+  transform: rotate(180.00deg);
+  width: 11px;
+}
+
+.morel .line-8 {
+  height: 11px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  transform: rotate(180.00deg);
+  width: 11px;
+}
+
+.morel .sparkle-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 8px;
+  left: 0;
+  min-width: 9px;
+  position: absolute;
+  top: 27px;
+  transform: rotate(-180.00deg);
+}
+
+.morel .line-container-1 {
+  height: 8px;
+  margin-bottom: 0;
+  position: relative;
+  width: 9px;
+}
+
+.morel .line-1-1 {
+  height: 8px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  transform: rotate(180.00deg);
+  width: 1px;
+}
+
+.morel .line-6-1 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  transform: rotate(180.00deg);
+  width: 9px;
+}
+
+.morel .line-7-1 {
+  height: 6px;
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  transform: rotate(180.00deg);
+  width: 6px;
+}
+
+.morel .line-8-1 {
+  height: 6px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  transform: rotate(180.00deg);
+  width: 6px;
+}
+
+.morel .title {
+  align-self: center;
+  font-family: 'Fagila';
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1px;
+  margin-top: 10.77px;
+  min-height: 106px;
+  min-width: 232px;
+  text-align: center;
+}
+
+.morel .star-1 {
+  height: 43px;
+  margin-left: 16px;
+  width: 41px;
+}
+
+.morel .overlap-group-container {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 17.53px;
+  margin-left: 1px;
+  min-height: 28px;
+  width: 20px;
+}
+
+.morel .line-container-2 {
+  height: 16px;
+  margin-right: 4.37px;
+  position: relative;
+  width: 16px;
+}
+
+.morel .line-1-2 {
+  height: 16px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.morel .line-6-2 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 16px;
+}
+
+.morel .line-7-2 {
+  height: 11px;
+  left: 3px;
+  position: absolute;
+  top: 2px;
+  width: 11px;
+}
+
+.morel .line-8-2 {
+  height: 11px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 11px;
+}
+
+.morel .line-container-3 {
+  height: 8px;
+  position: relative;
+  width: 9px;
+}
+
+.morel .line-1-3 {
+  height: 8px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.morel .line-6-3 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 9px;
+}
+
+.morel .line-7-3 {
+  height: 6px;
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: 6px;
+}
+
+.morel .line-8-3 {
+  height: 6px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 6px;
+}
+
+.morel .morel-container {
+  height: 640px;
+  margin-left: 47.27px;
+  margin-top: 131px;
+  position: relative;
+  width: 1295px;
+}
+
+.morel .morel-mushrooms-are {
+  font-family: 'Bicyclette';
+  font-weight: 300;
+  left: 624px;
+  letter-spacing: 0;
+  line-height: 40.4px;
+  position: absolute;
+  top: 0;
+  width: 671px;
+}
+
+.morel .morel_words {
+  height: 612px;
+  left: 0;
+  position: absolute;
+  top: 28px;
+  width: 689px;
+}
+
+.morel .morel-mushrooms-can {
+  font-family:'Bicyclette';
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 30.3px;
+  margin-top: 142px;
+  min-height: 628px;
+  width: 1135px;
+}
+
+/* puffball */
+
+.puffball {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1985px;
+  width: 1440px;
+}
+
+.puffball .overlap-group4 {
+  align-items: center;
+  background-color: #988b7b;
+  display: flex;
+  height: 138px;
+  min-width: 1440px;
+  padding: 30.1px 53.4px;
+}
+
+.puffball .text-1 {
+  align-self: flex-end;
+  font-family:'Fagila';
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 70px;
+  width: 83px;
+}
+
+.puffball .about {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 684px;
+  margin-top: 3.04px;
+  min-height: 34px;
+  width: 114px;
+}
+
+.puffball .fungi {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 89px;
+  margin-top: 3.04px;
+  min-height: 39px;
+  min-width: 92px;
+}
+
+.puffball .climate {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 102px;
+  margin-top: 3.04px;
+  min-height: 39px;
+  min-width: 132px;
+}
+
+.puffball .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 29.4px;
+  margin-top: 125px;
+  min-width: 482px;
+}
+
+.puffball .line-container {
+  align-self: flex-end;
+  height: 17px;
+  margin-bottom: 25.05px;
+  position: relative;
+  width: 17px;
+}
+
+.puffball .line-1 {
+  height: 17px;
+  left: 9px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.puffball .line-6 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 9px;
+  width: 17px;
+}
+
+.puffball .line-7 {
+  height: 12px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 12px;
+}
+
+.puffball .line-8 {
+  height: 12px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.puffball .overlap-group5 {
+  height: 128px;
+  margin-left: 5px;
+  position: relative;
+  width: 387px;
+}
+
+.puffball .title {
+  font-family:'Fagila';
+  font-weight: 400;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.puffball .line-container-1 {
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 94px;
+  width: 34px;
+}
+
+.puffball .line-1-1 {
+  height: 34px;
+  left: 17px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.puffball .line-6-1 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 17px;
+  width: 34px;
+}
+
+.puffball .line-7-1 {
+  height: 24px;
+  left: 6px;
+  position: absolute;
+  top: 5px;
+  width: 24px;
+}
+
+.puffball .line-8-1 {
+  height: 24px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 24px;
+}
+
+.puffball .line-container-2 {
+  height: 17px;
+  margin-left: 16px;
+  margin-top: 1.0px;
+  position: relative;
+  width: 17px;
+}
+
+.puffball .line-container-3 {
+  height: 34px;
+  margin-left: 5px;
+  margin-top: 9.68px;
+  position: relative;
+  width: 34px;
+}
+
+.puffball .puffball-container {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  margin-left: 8.82px;
+  margin-top: 120px;
+  min-width: 1342px;
+}
+
+.puffball .puffball_words {
+  height: 562px;
+  width: 711px;
+}
+
+.puffball .puffball-mushrooms-c {
+  font-family:'Bicyclette';
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 40.4px;
+  margin-bottom: 52.36px;
+  min-height: 164px;
+  width: 631px;
+}
+
+.puffball .puffball-mushroom-is {
+  font-family:'Bicyclette';
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 30.3px;
+  margin-top: 224px;
+  min-height: 628px;
+  width: 1135px;
+}
+
+/* turkey-tail */
+
+.turkey-tail {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1985px;
+  width: 1440px;
+}
+
+.turkey-tail .overlap-group4 {
+  align-items: center;
+  background-color: #988b7b;
+  display: flex;
+  height: 138px;
+  min-width: 1440px;
+  padding: 30.1px 53.4px;
+}
+
+.turkey-tail .text-1 {
+  align-self: flex-end;
+  font-family:'Fagila';
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 70px;
+  width: 83px;
+}
+
+.turkey-tail .about {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 684px;
+  margin-top: 3.04px;
+  min-height: 34px;
+  width: 114px;
+}
+
+.turkey-tail .fungi {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 89px;
+  margin-top: 3.04px;
+  min-height: 39px;
+  min-width: 92px;
+}
+
+.turkey-tail .climate {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 102px;
+  margin-top: 3.04px;
+  min-height: 39px;
+  min-width: 132px;
+}
+
+.turkey-tail .overlap-group5 {
+  height: 133px;
+  margin-right: 3.7px;
+  margin-top: 116px;
+  position: relative;
+  width: 592px;
+}
+
+.turkey-tail .overlap-group2 {
+  height: 133px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 588px;
+}
+
+.turkey-tail .title {
+  font-family:'Fagila';
+  font-weight: 400;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: justify;
+  top: 9px;
+}
+
+.turkey-tail .star-2 {
+  height: 43px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 41px;
+}
+
+.turkey-tail .sparkle {
+  align-items: flex-end;
+  display: flex;
+  height: 16px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 16px;
+  position: absolute;
+  top: 39px;
+  transform: rotate(-180.00deg);
+}
+
+.turkey-tail .line-container {
+  height: 16px;
+  margin-bottom: 0;
+  position: relative;
+  width: 16px;
+}
+
+.turkey-tail .line-1 {
+  height: 16px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  transform: rotate(180.00deg);
+  width: 1px;
+}
+
+.turkey-tail .line-6 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(180.00deg);
+  width: 16px;
+}
+
+.turkey-tail .line-7 {
+  height: 11px;
+  left: 3px;
+  position: absolute;
+  top: 2px;
+  transform: rotate(180.00deg);
+  width: 11px;
+}
+
+.turkey-tail .line-8 {
+  height: 11px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  transform: rotate(180.00deg);
+  width: 11px;
+}
+
+.turkey-tail .ellipse-1 {
+  border: 0.5px solid;
+  border-radius: 13.3px/41.52px;
+  height: 83px;
+  left: 541px;
+  position: absolute;
+  top: 47px;
+  transform: rotate(32.18deg);
+  width: 27px;
+}
+
+.turkey-tail .ellipse-2 {
+  border: 0.5px solid;
+  border-radius: 13.3px/41.52px;
+  height: 83px;
+  left: 544px;
+  position: absolute;
+  top: 48px;
+  transform: rotate(-15.00deg);
+  width: 27px;
+}
+
+.turkey-tail .sparkle-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 8px;
+  left: 0;
+  min-width: 9px;
+  position: absolute;
+  top: 27px;
+  transform: rotate(-180.00deg);
+}
+
+.turkey-tail .line-container-1 {
+  height: 8px;
+  margin-bottom: 0;
+  position: relative;
+  width: 9px;
+}
+
+.turkey-tail .line-1-1 {
+  height: 8px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  transform: rotate(180.00deg);
+  width: 1px;
+}
+
+.turkey-tail .line-6-1 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  transform: rotate(180.00deg);
+  width: 9px;
+}
+
+.turkey-tail .line-7-1 {
+  height: 6px;
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  transform: rotate(180.00deg);
+  width: 6px;
+}
+
+.turkey-tail .line-8-1 {
+  height: 6px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  transform: rotate(180.00deg);
+  width: 6px;
+}
+
+.turkey-tail .turkey-container {
+  align-self: flex-start;
+  height: 668px;
+  margin-left: 30.5px;
+  margin-top: 128px;
+  position: relative;
+  width: 1254px;
+}
+
+.turkey-tail .turkey-tails-are-a-u {
+  font-family:'Bicyclette';
+  font-weight: 300;
+  left: 623px;
+  letter-spacing: 0;
+  line-height: 40.4px;
+  position: absolute;
+  top: 32px;
+  width: 631px;
+}
+
+.turkey-tail .turkeytail_words {
+  height: 668px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 666px;
+}
+
+.turkey-tail .turkey-tails-are-a-f {
+  font-family: 'Bicyclette';
+  font-size: var(--font-size-m);
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 30.3px;
+  margin-top: 114px;
+  min-height: 628px;
+  width: 1135px;
+}
+

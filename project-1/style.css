@@ -185,7 +185,7 @@ main img {
   margin: auto;
 }
 .grid div {
-  border: 1px solid red; /* remove me! */
+  border: 1px
 }
 .grid div img {
   width: 80%;

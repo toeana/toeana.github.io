@@ -157,10 +157,12 @@ p {
   text-decoration-line: underline;
   text-decoration-style: wavy;
   text-decoration-color: #DB8C3F;
-  text-decoration: none;
-  border-bottom: transparent solid 1px;
+  text-decoration: wavy;
   padding-bottom: 15px;
+  padding-top: 70px;
+  border-bottom: 3px solid wavy;
 }
+
 #navbar a:hover {
     color: rgb(186, 218, 213);
     border-bottom: 15px;
@@ -168,6 +170,11 @@ p {
    text-decoration-style: wavy;
    text-decoration-color: #DB8C3F;
 }
+
+#navbar a.active {
+  border-bottom: 3px wavy #DB8C3F;
+}
+
 
 .two-col {
   display: flex;
@@ -179,7 +186,7 @@ footer {
   display: flex;
   justify-content: space-between;
   font-size: 24px;
-  line-height: 24px;
+  line-height: 40px;
   font-weight: 300;
 }
 
